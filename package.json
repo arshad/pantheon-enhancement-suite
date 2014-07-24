@@ -1,0 +1,14 @@
+{
+  "name": "pantheon-enhancement-suite",
+  "version": "0.0.1",
+  "description": "Pantheon Enhancement Suite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arshad Chummun <arshad@chummun.com> (http://arshad.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "gulp-compass": "~1.1.9"
+  }
+}

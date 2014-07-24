@@ -1,0 +1,13 @@
+/build/
+.DS_Store
+/node_modules/
+/components/
+/bower_components/
+angular.xcodeproj
+.idea
+.idea/workspace.xml
+*~
+*.swp
+npm-debug.log
+/tmp/
+.sass-cache/
